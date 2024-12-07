@@ -10,13 +10,13 @@
 ## Sobre mí
 
 <picture> 
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250px">
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqcW0xeDJmbzV3bTJqc3I3Z2N4am5sM3N6dDRteWhtaW0zd3Z2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1v2lXOfPBqKygjlkCM/giphy.webp" width="250px">
 </picture>
 
 - ✨ Apasionado por el **Desarrollo Frontend** y aprender nuevas tecnologías.  
 - 💻 Habilidad en crear aplicaciones web **responsivas** y fáciles de usar.  
 - 🌐 Dominio de **HTML, CSS, JavaScript, Python** y **Bootstrap**.  
-- 📧 Contáctame en [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide1@protonmail.com).  
+- 📧 Contáctame en [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide@gmail.com).  
 
 <br>
 
