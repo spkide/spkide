@@ -20,7 +20,7 @@
     🎮 Apasionado por el **Desarrollo Frontend** y aprender nuevas tecnologías.  
     <br>💻 Habilidad en crear aplicaciones web **responsivas** y fáciles de usar.  
     <br>🌐 Dominio de **HTML, CSS, JavaScript, Python** y **Bootstrap**.  
-    <br>📧 ¡Contáctame! [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide@gmail.com).  
+    <br>📧 ¡Contáctame! <a href="mailto:spkide@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square" alt="Enviar correo"></a>  
     <br>✨ Me encanta aprender de **nuevas tecnologías**, **jugar videojuegos** y ¡conocer gente creativa!  
     </p>
   </div>
