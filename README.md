@@ -1,3 +1,8 @@
+<!-- Banner de Twitter -->
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1761474941407367168/1733177110/1500x500" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+</div>
+
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -15,7 +20,7 @@
     🎮 Apasionado por el **Desarrollo Frontend** y aprender nuevas tecnologías.  
     <br>💻 Habilidad en crear aplicaciones web **responsivas** y fáciles de usar.  
     <br>🌐 Dominio de **HTML, CSS, JavaScript, Python** y **Bootstrap**.  
-    <br>📧 ¡Contáctame! [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide1@gmail.com).  
+    <br>📧 ¡Contáctame! [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide@gmail.com).  
     <br>✨ Me encanta aprender de **nuevas tecnologías**, **jugar videojuegos** y ¡conocer gente creativa!  
     </p>
   </div>
