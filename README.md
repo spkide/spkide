@@ -3,23 +3,28 @@
 
 <!-- Título -->
 <div id="user-content-toc" align="center">
-  <h1 style="display: inline-block; font-size: 2.5rem;">¡Hola! 👋 Soy Francisco Enrique (Spkide/Clownsunshine)</h1>
+  <h1 style="display: inline-block; font-size: 2.5rem;">¡Hola! 👋 Soy Francisco Enrique (Spkide/Clownsunshine) 🌟</h1>
 </div>
 
 <!-- Sobre mí -->
 ## Sobre mí
 
-<picture> 
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqcW0xeDJmbzV3bTJqc3I3Z2N4am5sM3N6dDRteWhtaW0zd3Z2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1v2lXOfPBqKygjlkCM/giphy.webp" width="250px">
-</picture>
-
-- ✨ Apasionado por el **Desarrollo Frontend** y aprender nuevas tecnologías.  
-- 💻 Habilidad en crear aplicaciones web **responsivas** y fáciles de usar.  
-- 🌐 Dominio de **HTML, CSS, JavaScript, Python** y **Bootstrap**.  
-- 📧 Contáctame en [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide@gmail.com).  
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <p>
+    🎮 Apasionado por el **Desarrollo Frontend** y aprender nuevas tecnologías.  
+    <br>💻 Habilidad en crear aplicaciones web **responsivas** y fáciles de usar.  
+    <br>🌐 Dominio de **HTML, CSS, JavaScript, Python** y **Bootstrap**.  
+    <br>📧 ¡Contáctame! [![Enviar correo](https://img.shields.io/static/v1?label=email&message=Spkide&color=EA4335&style=flat-square)](mailto:spkide1@gmail.com).  
+    <br>✨ Me encanta aprender de **nuevas tecnologías**, **jugar videojuegos** y ¡conocer gente creativa!  
+    </p>
+  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqcW0xeDJmbzV3bTJqc3I3Z2N4am5sM3N6dDRteWhtaW0zd3Z2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1v2lXOfPBqKygjlkCM/giphy.webp" alt="GIF de presentación" style="width: 250px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
+</div>
 
 <br>
 
+<!-- Sección de habilidades -->
 ## 🛠️ Mis Habilidades
 
 ### Lenguajes de Programación
@@ -35,6 +40,7 @@
 
 <br>
 
+<!-- Visitas y stats de GitHub -->
 ## 🌟 Estadísticas de GitHub
 
 <p align="left">
@@ -45,9 +51,27 @@
 
 <br clear="both">
 
-<!-- Visitas al perfil -->
+<!-- Contador de visitas al perfil con efectos -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=spkide&label=Visitas%20al%20Perfil&color=1&pretty=false)](https://visitcount.itsvg.in)
+  <p>🎉 ¡Gracias por visitar mi perfil! 🎉</p>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=spkide&label=Visitas%20al%20Perfil&color=1&pretty=false" alt="Contador de visitas al perfil" /></a>
+</div>
+
+<br>
+
+<!-- Mapa interactivo -->
+## 🌍 Mi Mapa de Contribuciones
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=spkide&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Mi mapa de contribuciones">
+</p>
+
+<br>
+
+<!-- Footer y despedida -->
+<div align="center">
+  <p>🎈 ¡Espero que te diviertas explorando mi perfil! No dudes en contactarme para colaborar. 💬</p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjcDJfM2M5d2dxMmZrMndvcG9kY3h3eWhzOGplY3VxNHBqenMwNiZjdD0zJHRE7ywqgNsdkkXA/giphy.gif" alt="GIF divertido de despedida" style="width: 250px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);">
 </div>
 
 <!-- Divisor horizontal -->
