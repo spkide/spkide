@@ -1,6 +1,6 @@
 <!-- Banner de Twitter -->
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1761474941407367168/1733177110/1500x500" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://pbs.twimg.com/profile_banners/1761474941407367168/1742493018/1500x500" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 </div>
 
 <!-- Divisor horizontal -->
