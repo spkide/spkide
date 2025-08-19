@@ -1,7 +1,4 @@
-<img width="2016" height="864" alt="image" src="https://github.com/user-attachments/assets/06c2e174-c2ba-4433-9243-1edab2cc45e6" /><!-- Banner de Twitter -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
-</div>
+![MasterHead](https://cdn.pfps.gg/banners/3649-aesthetic-anime.png)
 
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
