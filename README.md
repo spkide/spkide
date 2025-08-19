@@ -1,6 +1,6 @@
-<!-- Banner de Twitter -->
+<img width="2016" height="864" alt="image" src="https://github.com/user-attachments/assets/06c2e174-c2ba-4433-9243-1edab2cc45e6" /><!-- Banner de Twitter -->
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1761474941407367168/1742493018/1500x500" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 </div>
 
 <!-- Divisor horizontal -->
