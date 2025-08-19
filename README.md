@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pfps.gg/banners/3649-aesthetic-anime.png)
+![MasterHead](https://wallpapercave.com/wp/wp11962701.jpg)
 
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -42,39 +42,16 @@
 
 <br>
 
-<!-- Visitas y stats de GitHub -->
-## 🌟 Estadísticas de GitHub
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=spkide&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=spkide&theme=dark&hide_border=false" /> 
-</p>
-
-<br clear="both">
-
-<!-- Contador de visitas al perfil con efectos -->
-<div align="center">
-  <p>🎉 ¡Gracias por visitar mi perfil! 🎉</p>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=spkide&label=Visitas%20al%20Perfil&color=1&pretty=false" alt="Contador de visitas al perfil" /></a>
-</div>
-
-<br>
-
-<!-- Mapa interactivo -->
-## 🌍 Mi Mapa de Contribuciones
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=spkide&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Mi mapa de contribuciones">
-</p>
-
-<br>
-
-<!-- Footer y despedida -->
-<div align="center">
-  <p>🎈 ¡Espero que te diviertas explorando mi perfil! No dudes en contactarme para colaborar. 💬</p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFjcDJfM2M5d2dxMmZrMndvcG9kY3h3eWhzOGplY3VxNHBqenMwNiZjdD0zJHRE7ywqgNsdkkXA/giphy.gif" alt="GIF divertido de despedida" style="width: 250px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);">
-</div>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
