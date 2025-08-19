@@ -1,15 +1,10 @@
 <!-- Banner de Twitter -->
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1761474941407367168/1742493018/1500x500" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+  <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 </div>
 
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Título -->
-<div id="user-content-toc" align="center">
-  <h1 style="display: inline-block; font-size: 2.5rem;">¡Hola! 👋 Soy Francisco Enrique (Spkide/Clownsunshine) 🌟</h1>
-</div>
 
 <!-- Sobre mí -->
 ## Sobre mí
