@@ -5,7 +5,7 @@
 
 <!-- Título -->
 <div id="user-content-toc" align="center">
-  <h1 style="display: inline-block; font-size: 2.5rem;">¡Hola! 👋 Soy Francisco Enrique (Spkide/Clownsunshine) 🌟</h1>
+  <h1 style="display: inline-block; font-size: 2.5rem;">¡Hola! Me llamo Spkide</h1>
 </div>
 
 <!-- Sobre mí -->
