@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp11962701.jpg)
+![MasterHead](https://i.pinimg.com/originals/1f/32/4a/1f324a52226bee08bdd984bc6c4d9c2d.gif)
 
 <!-- Divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
