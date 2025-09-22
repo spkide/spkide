@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/1f/32/4a/1f324a52226bee08bdd984bc6c4d9c2d.gif)
 
 <!-- Divisor horizontal -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://i.pinimg.com/1200x/b5/f9/47/b5f94780b41e0b1cc27899efdc306a18.jpg)">
 
 <!-- Título -->
 <div id="user-content-toc" align="center">
