@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/1f/32/4a/1f324a52226bee08bdd984bc6c4d9c2d.gif)
+![MasterHead](https://i.pinimg.com/1200x/b5/f9/47/b5f94780b41e0b1cc27899efdc306a18.jpg)
 
 <!-- Divisor horizontal -->
 <img src="(https://i.pinimg.com/1200x/b5/f9/47/b5f94780b41e0b1cc27899efdc306a18.jpg)">
